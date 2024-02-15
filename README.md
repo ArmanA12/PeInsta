@@ -1,8 +1,17 @@
-# React + Vite
+# PeInsta : Like Instagram 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web app like instagram, and with some instagram faetures
+1. User can create account, login, logout,
+2. User can follow people and unfollow also
+3. User and add post, delete post, save post, and same things they can do with reels
+4. They can create and view others store and react also
 
-Currently, two official plugins are available:
+![Instagram Clone](https://github.com/ArmanA12/PeInsta/raw/master/insta.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Install and Run 
+1. Download zip file and extract and open in vs code
+2. open terminal and run npm install command,
+3. After complate instalation run npm run dev 
+
+# Tech stack
+1. React, RTK query, Tailwind, Html, Javascript, Appwrite for backend
